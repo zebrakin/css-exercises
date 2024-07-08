@@ -19,7 +19,7 @@ body {
 
 .content {
   background: #e3f4ff;
-  margin: 8px 0;
+  margin: 8px 0px;
   padding: 16px 8px;
 }
 
@@ -33,6 +33,6 @@ button {
   background: white;
   border: 1px solid #eee;
   display: block;
-  margin: auto;
+  margin: 0 auto;
   padding: 8px 24px;
 }
